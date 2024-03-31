@@ -20,7 +20,7 @@ The project involves the following steps:
 ## Files and Directories
 
 - `data`: Contains the dataset of brain MRI images.
-- `model_weights`: Stores the trained model weights.
+- `BrainTumorCVProject`: Stores the trained model weights.
 - `README.md`: Provides an overview of the project and instructions for running the code.
 
 ## Requirements
