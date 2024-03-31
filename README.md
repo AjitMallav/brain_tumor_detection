@@ -20,7 +20,7 @@ The project involves the following steps:
 ## Files and Directories
 
 - `data`: Contains the dataset of brain MRI images.
-- `BrainTumorCVProject`: Stores the trained model weights.
+- `BrainTumorCVProject.ipynb`: Google Colab code for model development
 - `README.md`: Provides an overview of the project and instructions for running the code.
 
 ## Requirements
